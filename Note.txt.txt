@@ -1,0 +1,9 @@
+Git Commands:
+
+To add File to repository
+
+3 steps
+
+i)Git add *
+ii)Git commit -m "Type Message"
+iii)
