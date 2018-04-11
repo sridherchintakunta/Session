@@ -6,4 +6,13 @@ To add File to repository
 
 i)Git add *
 ii)Git commit -m "Type Message"
-iii)
+iii)Git push origin 
+
+
+To know the staus 
+
+--git status
+
+--to pull the code from the repository
+
+iv)git pull origin 
